@@ -1,0 +1,25 @@
+{
+  "name": "my-google-app",
+  "slug": "my-google-app",
+  "extra": {
+    "eas": {
+      "projectId": "851371c6-19fd-43c4-9eb4-3aabaf31775b"
+    }
+  },
+  "expo": {
+    "android": {
+      "package": "com.madisomchik.mygoogleapp"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "851371c6-19fd-43c4-9eb4-3aabaf31775b"
+      }
+    },
+    "ios": {
+      "bundleIdentifier": "com.madisomchik.mygoogleapp",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false
+      }
+    }
+  }
+}
